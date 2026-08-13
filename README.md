@@ -2,9 +2,9 @@
 
 # Qianhui
 
-**Mathematical Physics PhD Student ✕ Independent AI Narrative Architect**
+**Mathematical Physics PhD Student · Fan Creator · AI-Native Game Builder**
 
-*Researching Black Hole Perturbation Theory (EMRI) & Building Causality-Driven Agent Systems*
+*Mathematical Physics PhD · CAS · Gravitational Waves & Causality. Fan creator for 10+ years. Building AI-native games where characters truly live.*
 
 ---
 
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <i>"In the gap of causality, consciousness awakens."</i>
+  <i>"Causality is my discipline. Making it close in a fictional world is my obsession."</i>
 </p>
