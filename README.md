@@ -1,15 +1,15 @@
 <div align="center">
 
-# Qianhui Fan (千慧)
+# Qianhui
 
-**Theoretical Physics PhD Student ✕ Independent AI Narrative Architect**
+**Mathematical Physics PhD Student ✕ Independent AI Narrative Architect**
 
 *Researching Black Hole Perturbation Theory (EMRI) & Building Causality-Driven Agent Systems*
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Physics-EMRI%20%26%20Relativity-7B1FA2?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Math%20Physics-EMRI%20%26%20Relativity-7B1FA2?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Generative%20Agents-1976D2?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Engine-Causality%20Invariants-2E7D32?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ### 🔬 Research & Systems Engineering
 
-- ⚛️ **Theoretical Physics & Gravitational Waves**: Focus on Extreme Mass Ratio Inspirals (EMRI), perturbation theory, and symbolic tensor calculus.
+- ⚛️ **Mathematical Physics & Gravitational Waves**: Focus on Extreme Mass Ratio Inspirals (EMRI), perturbation theory, and symbolic tensor calculus.
 - 🌌 **AI-Native Narrative Systems**: Architecting deterministic causality networks, generative agent cognitive loops, and invariant guardrails for open-ended narrative environments.
 
 ---
@@ -49,33 +49,29 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🌌 <a href="https://github.com/killbynothing/causal-anew">Causal Anew</a></h3>
-      <p align="center">An AI-native narrative game engine governed by a four-pillar deterministic causality loop and Generative Agents cognition.</p>
+      <p align="center">AI-native narrative game engine governed by a four-pillar causality loop.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active%20Engine-brightgreen" />
-        <img src="https://img.shields.io/badge/Invariants-12%2F12%20Passed-blue" />
+        <img src="https://img.shields.io/badge/Invariants-12%2F12-blue" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚛️ <a href="#">EMRI Perturbation Suite</a></h3>
-      <p align="center">Symbolic calculation and numerical analysis toolkit for Extreme Mass Ratio Inspirals in strong gravitational fields.</p>
+    <td width="33%" valign="top">
+      <h3 align="center">⚛️ <a href="https://github.com/killbynothing/Kerr-World-Model">Kerr World Model</a></h3>
+      <p align="center">Kerr black hole spacetime & perturbation physics simulation toolkit.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Field-Gravitational%20Waves-purple" />
-        <img src="https://img.shields.io/badge/Math-Symbolic%20Tensor-orange" />
+        <img src="https://img.shields.io/badge/Field-Relativity-purple" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/killbynothing/Unified_Inference_Engine">Unified Inference</a></h3>
+      <p align="center">Unified inference engine for complex reasoning & knowledge systems.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Engine-AI%20Reasoning-orange" />
       </p>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killbynothing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killbynothing&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
